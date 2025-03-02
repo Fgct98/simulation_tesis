@@ -4,7 +4,5 @@ https://www.python.org
 https://cantera.org
 
 
-primero debemos abrir un compilador (recomendado Visual studio code) 
-
-pasos: 
-instalar python
+En caso de no tener visual studio code podemos acceder al siguiente link donde se encntrara el codgio, solo se correr el codigo 
+https://colab.research.google.com/drive/1B8BQx9uZmfTkJxE7uTGtVkxHCzci36_H?usp=sharing
