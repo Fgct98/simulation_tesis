@@ -64,5 +64,5 @@ plt.show()
 # Ejecucion de entorno virtual : 
 # source venv/bin/activate
 # pip install numpy matplotlib
-# python simulacion_1_h2o2.py
+# python simulacion_blanqueadores.py
 
